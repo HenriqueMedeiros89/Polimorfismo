@@ -14,4 +14,10 @@ public class Calculadora {
         return soma;
     }
 
+    public double somar(double v1, double v2) {
+
+        double soma = v1 + v2;
+        return soma;
+    }
+
 }
